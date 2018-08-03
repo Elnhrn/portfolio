@@ -2,6 +2,7 @@ body {
     font-family: 'Didact Gothic', sans-serif;
     font-size: 18px;
     color: #404044;
+    line-height: 1.5;
 }
 
 h1 {
@@ -111,6 +112,18 @@ a:link, a:visited, a {
 .work-links {
     display: flex;
     justify-content: space-evenly;
+}
+
+.landing-img {
+    margin: 20px 0 30px;
+    width: 100%;
+}
+.landing-title {
+    margin: 20px 0;
+}
+.landing-p {
+    margin: 50px 0 30px;
+    font-size: 20px;
 }
 
 /* back to top */
