@@ -48,9 +48,10 @@ a:link, a:visited, a {
 }
 
 .active {
-    color: #797979 !important;
+    color: #3c3c3c !important;
     background-color: #ffee76;
     text-decoration: none !important;
+    font-weight: bold;
 }
 
 .active:hover, a:hover {
