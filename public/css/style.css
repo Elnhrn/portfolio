@@ -85,6 +85,10 @@ a:link, a:visited, a {
     align-items: center;
 }
 
+form {
+    margin-top: 30px;
+}
+
 .linkedin-img {
     padding: 8.5px;
 }
